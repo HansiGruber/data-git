@@ -3,4 +3,14 @@ This is the module docstring
 '''
 
 
-pass  # YOUR CODE HERE
+def my_name_is():
+    '''
+    This is the function docstring
+    '''
+    return "Hansi"
+
+def my_buddy_is():
+    '''
+    This is the function docstring
+    '''
+    return "Hansi"

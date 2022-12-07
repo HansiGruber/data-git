@@ -13,4 +13,4 @@ def my_buddy_is():
     '''
     This is the function docstring
     '''
-    return "Hansi"
+    return "Burak"
